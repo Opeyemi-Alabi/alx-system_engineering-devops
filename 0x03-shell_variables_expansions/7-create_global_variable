@@ -1,2 +1,2 @@
 #!/bin/bash
-export Name = "BEST" Value="School" 
+export BEST="School"
